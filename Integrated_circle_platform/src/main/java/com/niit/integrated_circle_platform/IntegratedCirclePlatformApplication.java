@@ -8,7 +8,7 @@ public class IntegratedCirclePlatformApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(IntegratedCirclePlatformApplication.class, args);
-        System.out.println("jjjj");
+
     }
 
 
