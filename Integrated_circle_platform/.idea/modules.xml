@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Integrated_circle_platform.iml" filepath="$PROJECT_DIR$/Integrated_circle_platform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../integrated_circle_platform_front/integrated_circle_platform_front.iml" filepath="$PROJECT_DIR$/../integrated_circle_platform_front/integrated_circle_platform_front.iml" />
+    </modules>
+  </component>
+</project>

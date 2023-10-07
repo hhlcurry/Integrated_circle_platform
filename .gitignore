@@ -1,0 +1,3 @@
+# Project exclude paths
+/Integrated_circle_platform/target/
+/integrated_circle_platform_front/node_modules/
